@@ -1,0 +1,14 @@
+STRANGER TOOLS
+
+Salut c'est Azulax, j'ai dev ce tools pour vous facilité la vie (je suis sympa hein)
+hésiter pas de partager mon github a vos amis bande de bougnoules
+
+pour le ddos veuillez mettres des proxys dans "ddos/proxys".Le ddos va dépendre de ta co
+(plus de proxy = la perssone lagera plus)
+
+étape 1 : lancer le "module.bat"
+étape 2 : lancer le "start.bat"
+étape 3 : m'envoyer 30€ paypal
+étape 4 : ne pas faire l'étape 3
+
+
